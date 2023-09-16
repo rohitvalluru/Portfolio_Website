@@ -30,7 +30,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        "Passionate about chess, cricket, cars, and pop music. My fascination with the stock market and AI-driven quant finance blends my analytical curiosity, while my love for science, space, and spiritual wisdom fuels my quest for knowledge, shaping my perspective in both personal and professional endeavors."
+        "Passionate about Cars, cricket, chess and pop music. My fascination with the stock market and AI-driven quant finance blends my analytical curiosity, while my love for science, space, and spiritual wisdom fuels my quest for knowledge, shaping my perspective in both personal and professional endeavors."
         <p className='mt-10'>I like to develop expertise in a number of areas over the course of my life and career. My personality type is <p className='underline font-bold text-xl'>INTP.</p></p>
         <p className='mt-10'>I don't like to define myself by the work I've done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do intresting things that matter.</p>
       </motion.p>
